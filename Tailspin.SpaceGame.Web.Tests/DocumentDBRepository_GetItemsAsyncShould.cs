@@ -24,6 +24,7 @@ namespace Tests
             }
         }
 
+        [TestCase("ABC")]
         [TestCase("Milky Way")]
         [TestCase("Andromeda")]
         [TestCase("Pinwheel")]
